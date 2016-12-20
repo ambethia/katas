@@ -1,0 +1,6 @@
+Test.assertEquals((-2).twos(3), '110')
+Test.assertEquals((8).twos(5), '01000')
+Test.assertEquals((-8).twos(5), '11000')
+Test.assertEquals((-16).twos(5), '10000')
+Test.assertEquals((1).twos(3), '001')
+Test.assertEquals((-1).twos(10), '1111111111')
