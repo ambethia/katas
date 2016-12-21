@@ -1,3 +1,4 @@
+
 Test.assertSimilar(
   spiralize(5),
   [
@@ -8,3 +9,5 @@ Test.assertSimilar(
     [1, 1, 1, 1, 1]
   ]
 )
+
+spiralize(6)
