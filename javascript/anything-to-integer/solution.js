@@ -1,1 +1,0 @@
-const toInteger = n => ~~n

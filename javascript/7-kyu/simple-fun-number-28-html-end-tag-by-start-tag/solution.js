@@ -1,0 +1,1 @@
+const htmlEndTagByStartTag = t => `</${t.match(/<([a-z]+).*>/)[1]}>`

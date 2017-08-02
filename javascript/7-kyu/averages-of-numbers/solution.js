@@ -1,0 +1,1 @@
+const averages = n => n ? n.map((v, i) => (v + n[i + 1]) / 2).slice(0, -1) : []
