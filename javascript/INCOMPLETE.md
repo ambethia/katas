@@ -1,0 +1,1 @@
+- 1-kyu/6-by-6-skyscrapers

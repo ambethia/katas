@@ -4,7 +4,7 @@ const { asin, cos, floor, sqrt, PI } = Math
 const R = 6371
 
 // Haversine function
-const hav = th => (1 - cos(th)) / 2
+const hav = θ => (1 - cos(θ)) / 2
 
 const distance = (a, b) => {
   const [[φ1, λ1], [φ2, λ2]] = [a, b].map(dms => dms.split(', ').map(parse))
