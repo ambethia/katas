@@ -1,3 +1,1 @@
-![](https://www.codewars.com/users/ambethia/badges/large)
-
-My notebook for [Codewars](http://www.codewars.com) Katas.
+<div style="margin: 2em auto"><img src="https://www.codewars.com/users/ambethia/badges/large" /></div>
